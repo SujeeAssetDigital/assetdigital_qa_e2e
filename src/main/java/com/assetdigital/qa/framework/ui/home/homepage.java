@@ -6,7 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
-public class HomePage {
+public class homepage {
 
     @Test
     public void testDashboard() throws InterruptedException {
@@ -31,5 +31,4 @@ public class HomePage {
 
 
     }
-
 }
