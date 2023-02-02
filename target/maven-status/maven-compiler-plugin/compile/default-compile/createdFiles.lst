@@ -1,1 +1,4 @@
+com\assetdigital\qa\framework\ui\PageBase.class
+com\assetdigital\qa\framework\ui\login\LoginPage.class
 org\example\Main.class
+com\assetdigital\qa\framework\ui\home\HomePage.class
